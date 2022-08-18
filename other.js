@@ -1,1 +1,1 @@
-const otherBaller = "this is dero to ma boi on g like that";
+const otherBaller = "this is dero to ma boi on g like that yeah";
